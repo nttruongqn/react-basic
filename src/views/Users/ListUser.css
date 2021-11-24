@@ -1,0 +1,14 @@
+.list-user-container {
+}
+.title {
+  margin-bottom: 10px;
+}
+.list-user-content {
+  width: 400px;
+  margin: 0 auto;
+}
+.list-user-item {
+  font-size: 18px;
+  padding: 15px;
+  border: 1px solid #ccc;
+}
